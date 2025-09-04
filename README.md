@@ -38,15 +38,15 @@ The backend is built with **FastAPI** and uses **VLLM** Docker containers for LL
 User ---> FastAPI Backend ---> RAG System ---> Qdrant Vector DB
                                       |
                                       ---> VLLM Docker for LLM inference
-
-    FastAPI: Handles REST API calls (/ask) for chat.
-
-    RAG System: Embeds queries, searches Qdrant, and generates prompts.
-
-    Qdrant: Stores embeddings and metadata for fast similarity search.
-
-    VLLM Docker: Runs LLM model inference in a containerized environment.
 ```
+FastAPI: Handles REST API calls (/ask) for chat.
+
+RAG System: Embeds queries, searches Qdrant, and generates prompts.
+
+Qdrant: Stores embeddings and metadata for fast similarity search.
+
+VLLM Docker: Runs LLM model inference in a containerized environment.
+
 ## Getting Started
 
 Prerequisites
