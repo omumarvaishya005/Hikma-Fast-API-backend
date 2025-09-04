@@ -6,7 +6,7 @@
 [![VLLM](https://img.shields.io/badge/VLLM-0.5.4-orange)](https://github.com/vllm-project/vllm)
 
 ---
-[Watch Hikma Prototype Testing Video](media/hikma_prototype_testing_video.webm)
+![Proto-type](media/hikma_prototype_testing_IMAGE.png)
 
 ---
 
